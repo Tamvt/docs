@@ -507,6 +507,9 @@
     * [Store API to app server](resources/references/adr/2023-06-27-store-api-to-app-server.md)
     * [Default handle for non specified salutations](resources/references/adr/2023-06-28-default-handle-for-non-specified-salutations.md)
     * [Flow builder preview](resources/references/adr/2023-07-13-flow-builder-preview.md)
+    * [Media path](resources/references/adr/2023-08-17-media-path.md)
+    * [Post updater](resources/references/adr/2023-08-27-post-updater.md)
+    * [Feature property for experimental anotation](resources/references/adr/2023-09-06-feature-property-for-experimental-anotation.md)
     * [YYYY MM DD template](resources/references/adr/YYYY-MM-DD-template.md)
 
   * [App Reference](resources/references/app-reference/README.md)

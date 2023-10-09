@@ -97,7 +97,7 @@ bin/console es:index --no-queue
 
 **3. Insert new fields to advanced_search_config_field of the search entity**
 
-So now the data is mapped and indexed, we need to make it searchable by adding the new field into the search config. Create a new migration and make sure it is run by reinstalling or updating the plugin:
+So now the data is mapped and indexed, we need to make it searchable by adding the new field into the search config. Create a new migration and make sure it is run by the command `bin/console database:migrate --all`, or reinstalling or updating the plugin:
 
 ```bash
 bin/console database:create-migration --name AddNewPrefixProductNumberFieldIntoProductAdvancedSearch --plugin YourPlugin
